@@ -1,0 +1,1 @@
+This is my submission for JetBrains' RubyMine Internship for the summer of 2022.
